@@ -1,0 +1,4 @@
+C:\Users\JakeB\Desktop\Coding Homework\snipsnip\bin\Debug\netcoreapp1.1\snipsnip.deps.json
+C:\Users\JakeB\Desktop\Coding Homework\snipsnip\bin\Debug\netcoreapp1.1\snipsnip.runtimeconfig.json
+C:\Users\JakeB\Desktop\Coding Homework\snipsnip\bin\Debug\netcoreapp1.1\snipsnip.runtimeconfig.dev.json
+C:\Users\JakeB\Desktop\Coding Homework\snipsnip\obj\Debug\netcoreapp1.1\snipsnip.AssemblyInfo.cs
